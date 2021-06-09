@@ -45,3 +45,9 @@ body{
     border:2px solid black;
     border-radius: 50px;
 }
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+}
